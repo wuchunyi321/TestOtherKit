@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestOther
 
 [![CI Status](https://img.shields.io/travis/729251524@qq.com/TestOther.svg?style=flat)](https://travis-ci.org/729251524@qq.com/TestOther)
@@ -27,3 +28,7 @@ pod 'TestOther'
 ## License
 
 TestOther is available under the MIT license. See the LICENSE file for more info.
+=======
+# TestOtherKit
+this a test Kit
+>>>>>>> 921703aac4dff6e7bc3e60b05f9661235aead8c3
